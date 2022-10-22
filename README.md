@@ -23,4 +23,4 @@ To run use - `python PDA.py`
 You can also define your own productions and use them. Make sure to give full path of the automata file, or better keep the automata file in the same directory as the program.
 
 ## Output
-![Pushdown Automata Working Example Screenshot](https://github.com/mohitwildbeast/PushDown-Automata-Implementation/blob/master/PushDown%20Automata%20Example%20Screenshot.png)
+![Pushdown Automata Working Example Screenshot](https://github.com/Shubham-Patel07/PushDown-Automata-Implementation/blob/main/PushDown%20Automata%20Example%20Screenshot.png)
